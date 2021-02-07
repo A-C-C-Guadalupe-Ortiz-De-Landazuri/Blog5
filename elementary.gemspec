@@ -1,7 +1,7 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "elementary"
+  spec.name          = "Blog5"
   spec.version       = "0.1.0"
   spec.authors       = ["Abhishek Nagekar"]
   spec.email         = ["abhishek@nagekar.com"]
